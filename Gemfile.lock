@@ -1,7 +1,8 @@
-PATH
-  remote: ../alondra
+GIT
+  remote: git://github.com/afcapel/alondra.git
+  revision: a36de0af396c87777a16aee25e8d0a5b5de178ff
   specs:
-    alondra (0.0.1)
+    alondra (0.0.2)
       daemons
       em-http-request
       em-synchrony
